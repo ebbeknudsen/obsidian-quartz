@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Velkommen","created":"2025-11-08T22:17:25.465+01:00","modified":"2025-11-08T22:34:31.236+01:00","cssclasses":""}
+{"publish":true,"title":"Velkommen","created":"2025-11-08T22:17:25.465+01:00","modified":"2025-11-08T22:37:16.359+01:00","cssclasses":""}
 ---
 
-D&D sessions: [[D&D/Tomb of Annihilation/Sessions/Sessions]]
+D&D sessions: [[D&D/Tomb of Annihilation/Sessions/index]]
