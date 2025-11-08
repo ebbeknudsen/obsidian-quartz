@@ -1,7 +1,8 @@
 ---
-{"publish":true,"title":"Sessions","created":"2025-11-08T21:17:37.833+01:00","modified":"2025-11-08T22:39:40.433+01:00","cssclasses":""}
+{"publish":true,"aliases":"Sessions","title":"Sessions","created":"2025-11-08T21:17:37.833+01:00","modified":"2025-11-08T22:44:15.477+01:00","cssclasses":""}
 ---
 
+Følgende sessioner er planlagte:
 
 - [[D&D/Tomb of Annihilation/Sessions/Session 0 - 23-10-2025]]
 - [[D&D/Tomb of Annihilation/Sessions/Session 1 - 13-11-2025]]
